@@ -8,6 +8,17 @@ In this project i implemented the design of the navbar in its mobile version.
 - JavaScript
 - CSS
 
+## Screenshot
+
+![Screenshot](screenshot1.png)
+
+
+## Getting Started
+
+- Clone the repo ``
+- cd into `mobile-menu`
+- Run `git pull origin feature`
+- open the website in your live server
 
 ## Authors
 
